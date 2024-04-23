@@ -1,0 +1,29 @@
+body{
+     background-image: url('Project1/Image/13853-gradient.jpg');
+    display: grid;   
+    justify-items: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 100vw;
+    height: 80vh;
+
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+.content{
+    display: grid;
+    place-items: center;
+    width: 600px;
+    
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+button{
+    font-size: 20px;
+
+}

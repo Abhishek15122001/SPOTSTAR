@@ -1,0 +1,80 @@
+body{
+    background-image: url('Project1/Image/Hearts-of-Harris-Jayaraj-Concert-in-Malaysia-on-21-January-2023-768x945.jpg');
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h1:hover{
+    color: rgb(116, 0, 0);
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    opacity: 0.7;
+
+}
+.bio{
+    display: inline-block;
+    position: absolute;
+    color: grey;
+    width: 250px;
+    top: 5px;
+    right: 0px;
+    border-style: outset;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 50px;
+    margin-top: 110px;
+    margin-right: 7px;
+}
+.bio1{
+    display: inline-block;
+    position: absolute;
+    color: grey;
+    width: 250px;
+    top: 150px;
+    right: 7px;
+    border-style: outset;
+    border-radius: 10px;
+    padding: 15px;
+    padding-left: 20px;
+    margin-top: 140px;
+   
+
+}
+.bio:hover{
+    color: white;
+    border-color: rgb(1, 1, 102);
+    background-color: rgb(117, 7, 7);
+}
+.bio1:hover{
+    color: white;
+    border-color: rgb(118, 2, 2);
+    background-color: rgb(117, 7, 7);
+}
+
+
+.content{
+    display: flex;
+    border-style:dotted;
+    border-color: grey;
+
+}
+.content:hover{
+    border-color:rgb(116, 0, 0);
+}
+.
+.audio{
+    display: inline;
+}
+.name{
+    display: inline;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 50%;
+}

@@ -1,0 +1,68 @@
+body{
+    background-image:url('Project1/Image/musicback.webp');
+}
+.Actor{
+    
+    display:flex;
+    flex-grow: 1;
+    
+}
+
+.Movies{
+    
+    display:flex;
+    flex-grow: 1;
+}
+.Music-Director{
+    
+    display:flex;
+    flex-grow: 1;
+}
+.a{
+    border: 1px solid white;
+    margin-left: 7px;
+    margin-right:7px;
+    background-color: black;
+    display: flex;
+    flex-grow: 2;
+    justify-content: center;
+    
+    
+    }
+h1{
+    text-align: center;
+    color: white;
+}
+nav{
+    text-align: center;
+    color: white;
+}
+h2{
+    padding: 5px;
+    color:white; font-size: 30px;font-weight: bold;
+   
+
+}
+p{
+    color:white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    display: block;
+    
+    
+
+}
+input{
+    font-size: 17px;
+    padding: 3px;
+    width: 300px;
+
+}
+button{
+    font-size: 17px;
+    padding: 3px;
+
+
+}
+

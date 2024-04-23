@@ -1,0 +1,33 @@
+body{
+    background-color: #345178;
+
+
+.content{
+    display: flex;
+    justify-content:center;
+    margin-top: 8%;
+
+    
+}
+
+
+.music img{
+    height: 256px;
+    width: 234px;
+    margin-right: 50px;
+
+}
+h1{
+    display: flex;
+    margin-top: 70px;
+    color: white;
+    justify-content: center;
+}
+h1:hover{
+    color: black;
+}
+
+.movie img{
+    height: 256px;
+    width: 234px;
+}

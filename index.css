@@ -1,0 +1,68 @@
+body{
+    background-image: url('https://th.bing.com/th/id/R.d7938b7167e77d10cecf111a7f1e837a?rik=2wRBM7fMG1HJ9A&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2016%2f12%2fAbstract-Wallpaper-Widescreen.png&ehk=qV1fvI7qYquNJAsPHpGIF1UuntRo%2b9517XxTVXsXZGw%3d&risl=1&pid=ImgRaw&r=0');
+    display: grid;
+    place-items: center;
+
+}
+.container{
+    display: grid;
+    border: 1px solid transparent;
+    place-items: center;
+    position: relative;
+    top: 135px;
+    width: 600px;
+    color:black;
+    background-image:url('https://th.bing.com/th/id/R.d7938b7167e77d10cecf111a7f1e837a?rik=2wRBM7fMG1HJ9A&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2016%2f12%2fAbstract-Wallpaper-Widescreen.png&ehk=qV1fvI7qYquNJAsPHpGIF1UuntRo%2b9517XxTVXsXZGw%3d&risl=1&pid=ImgRaw&r=0');
+    
+}
+
+.userinput{
+    color: white;
+    display: grid;
+    place-items: center;
+}
+h1{
+    display: grid;
+    place-items: center;
+    color: aliceblue;
+    
+    
+}
+
+    
+    
+button{
+    height: 30px;
+    font-size: 20px;
+    margin-top: 25px;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-image: url('https://w0.peakpx.com/wallpaper/682/371/HD-wallpaper-planets-sci-fi.jpg');
+    color:wheat;
+    background-clip: text;
+}
+
+input{
+    padding: 5px;
+    width: 100%;
+    margin: 3px;
+    font-size: 17px;
+}
+.fp{
+    margin-right:235px;
+    margin-top: 4px;
+    font-size: 20px;
+    color: white;
+
+}
+a{
+    color: wheat;
+}
+.su{
+    margin-top: 4px;
+    font-size: 20px;
+    margin-left: 250px;
+    color: aliceblue;
+
+}
